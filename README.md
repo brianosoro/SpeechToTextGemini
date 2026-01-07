@@ -35,7 +35,7 @@ Set up the **API Key** in line 12 of transcribe.php
 $apiKey = 'API_KEY';
 ```
 Add the audio file inside the **SpeechToTextGemini** directory/folder
-```
+
 Start to transcribe, you can use the Terminal window to do so or run the file from the browser:http://localhost/gemini/transcribe.php
 ```bash
 php transcribe.php
