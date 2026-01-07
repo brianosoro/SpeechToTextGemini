@@ -9,10 +9,10 @@ use Gemini\Data\Blob;
 use Gemini\Factory;
 
 
-$apiKey = 'AIzaSyDt9WsQpZXy_IiJpnu6CssB1wYX6Hmwuj0'; 
+$apiKey = 'API_KEY'; // Set up your API Key: https://aistudio.google.com/u/1/api-keys  
 $client = Gemini::client($apiKey);
 
-$audioFilePath = 'audio001.m4a';
+$audioFilePath = 'audiofile.m4a'; // Set up your audio file
 
 echo "Checking file...\n";
 
