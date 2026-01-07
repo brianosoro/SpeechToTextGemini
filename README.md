@@ -31,6 +31,8 @@ Install the intl extension(it is required, consider using Php 8.4):
 sudo apt-get install php8.4-intl #For Ubuntu
 ```
 Set up the **API Key** in line 12 of transcribe.php
+```
+```
 Add the audio file inside the **SpeechToTextGemini** directory/folder
 ```
 ---
