@@ -32,6 +32,7 @@ sudo apt-get install php8.4-intl #For Ubuntu
 ```
 Set up the **API Key** in line 12 of transcribe.php
 ```
+$apiKey = 'API_KEY';
 ```
 Add the audio file inside the **SpeechToTextGemini** directory/folder
 ```
